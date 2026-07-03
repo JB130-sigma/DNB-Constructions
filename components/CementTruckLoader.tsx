@@ -99,7 +99,6 @@ export default function CementTruckLoader({ visible, message = "Loading…" }: L
             </div>
           </div>
         </div>
-
       </div>
 
       {/* Progress bar */}
