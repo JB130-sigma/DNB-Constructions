@@ -16,7 +16,7 @@ export default function LoginPage() {
     e.preventDefault();
     setError("");
     
-    // Accept any password, just validate the email against our store
+    // Accept any password,just validate the email against our store
     if (login(email)) {
       router.push("/admin/dashboard");
     } else {
