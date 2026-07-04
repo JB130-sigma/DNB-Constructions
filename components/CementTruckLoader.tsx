@@ -73,7 +73,7 @@ export default function CementTruckLoader({ visible, message = "Loading…" }: L
             {/* Headlight */}
             <div className="absolute right-[-5px] bottom-[28px] w-2 h-3.5 bg-accent rounded-sm shadow-[0_0_6px_#f59e0b]" />
 
-            {/* Exhaust smoke */}
+            {/* Exhaust smoke   */}
             <div className="absolute right-1 bottom-[76px] w-4 h-4">
               <div className="smoke-puff" style={{ top: 0, left: 0 }} />
               <div className="smoke-puff" style={{ top: -4, left: -2 }} />
