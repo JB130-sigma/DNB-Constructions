@@ -9,7 +9,6 @@ A modern, high-performance **Enterprise Resource Planning (ERP)** system custom-
 
 This full-stack application includes a premium public-facing portfolio website alongside a fully authenticated, deeply integrated administrative portal for managing construction operations.
 
----
 
 ## 🌟 Key Features
 
